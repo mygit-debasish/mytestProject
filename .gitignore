@@ -1,8 +1,4 @@
 # Adding list of ignored files here
 #
-<<<<<<< HEAD
-*.second-branch 
-=======
 file1.master
 1.master
->>>>>>> second-branch
